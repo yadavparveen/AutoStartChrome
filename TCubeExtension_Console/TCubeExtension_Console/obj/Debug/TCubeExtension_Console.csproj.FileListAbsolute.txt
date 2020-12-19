@@ -1,0 +1,13 @@
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Debug\TCubeExtension_Console.exe.config
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Debug\TCubeExtension_Console.exe
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Debug\TCubeExtension_Console.pdb
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Debug\WebDriver.dll
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Debug\WebDriver.xml
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Debug\TCubeExtension_Console.csprojAssemblyReference.cache
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Debug\TCubeExtension_Console.csproj.CoreCompileInputs.cache
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Debug\TCubeExtension_Console.csproj.CopyComplete
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Debug\TCubeExtension_Console.exe
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Debug\TCubeExtension_Console.pdb
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Debug\userInfo.json
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Debug\Newtonsoft.Json.dll
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,12 @@
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Release\TCubeExtension_Console.exe.config
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Release\TCubeExtension_Console.exe
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Release\TCubeExtension_Console.pdb
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Release\WebDriver.dll
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Release\WebDriver.xml
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Release\TCubeExtension_Console.csproj.CoreCompileInputs.cache
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Release\TCubeExtension_Console.csproj.CopyComplete
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Release\TCubeExtension_Console.exe
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\obj\Release\TCubeExtension_Console.pdb
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Release\userInfo.json
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Release\Newtonsoft.Json.dll
+D:\POC\TCubeExtension_Console\TCubeExtension_Console\bin\Release\Newtonsoft.Json.xml
