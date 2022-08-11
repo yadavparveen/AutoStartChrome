@@ -1,0 +1,12 @@
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\bin\Debug\userInfo.json
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\bin\Debug\TCubeExtension_Console.exe.config
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\bin\Debug\TCubeExtension_Console.exe
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\bin\Debug\TCubeExtension_Console.pdb
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\bin\Debug\Newtonsoft.Json.dll
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\bin\Debug\WebDriver.dll
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\bin\Debug\Newtonsoft.Json.xml
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\obj\Debug\AutoStartChrome_Console.csproj.CoreCompileInputs.cache
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\obj\Debug\AutoStartChrome_Console.csproj.CopyComplete
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\obj\Debug\TCubeExtension_Console.exe
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\obj\Debug\TCubeExtension_Console.pdb
+D:\POC\AutoStartChrome\AutoStartChrome_Console\AutoStartChrome_Console\obj\Debug\AutoStartChrome_Console.csprojAssemblyReference.cache
