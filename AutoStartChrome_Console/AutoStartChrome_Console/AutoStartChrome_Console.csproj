@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{F722AFD0-4E82-4A50-9CBB-2A5973A59CA5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TCubeExtension_Console</RootNamespace>
-    <AssemblyName>TCubeExtension_Console</AssemblyName>
+    <RootNamespace>AutoStartChromExtension_Console</RootNamespace>
+    <AssemblyName>AutoStartChromExtension_Console</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
